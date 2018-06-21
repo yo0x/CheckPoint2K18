@@ -1,0 +1,101 @@
+At last, we've found you!
+We must solve this puzzle, and according to the prophecy - you are the one to solve it.
+
+This puzzle is weird. It consists of a board with 10 columns and 10 rows, so there are 100 pieces.Yet, each piece is weird! It has four 'slices' - a top slice, a right slice, a bottom slice and a left slice.
+Each slice consists of a number. For example, consider this piece:
+------------
+|  \ 12 /  |
+| 5 \  / 3 |
+|   /  \   |
+|  / 4  \  |
+------------
+
+Its top is 12, its right is 3, its bottom is 4 and its left is 5.
+For the puzzle to be solved, all pieces must be sorted into the board, where each slice is equal to its adjacent slice.
+In addition, a slice that has no adjacent slice (that is, the slice is a part of the board's border), must be 0. Other slices are never 0.
+For example, the following board (with 4 pieces) is valid:
+------------------------
+|  \ 0  /  ||  \ 0  /  |
+| 0 \  / 9 || 9 \  / 0 |
+|   /  \   ||   /  \   |
+|  / 17 \  ||  / 11 \  |
+------------------------
+------------------------
+|  \ 17 /  ||  \ 11 /  |
+| 0 \  / 6 || 6 \  / 0 |
+|   /  \   ||   /  \   |
+|  / 0  \  ||  / 0  \  |
+------------------------
+
+In the board above, all the border slices are equal to 0.
+Consider the top-left piece. Its right slice is equal to 9, and its adjacent slice (the left slice of the top-right piece) also equals 9.
+
+Unfortunately, we have the pieces in a shuffled order. They are given in the following format:
+cube_id, [slices]; cube_id, slices; ... cube_id, slices
+Where cube_id is a number from 0 to 99, and slices include the numbers in the order: top, right, bottom, left.
+
+For instance, consider the following shuffled board:
+------------------------------------
+|  \ 0  /  ||  \ 0  /  ||  \ 5  /  |
+| 18\  / 12|| 19\  / 7 || 19\  / 0 |
+|   /  \   ||   /  \   ||   /  \   |
+|  / 2  \  ||  / 6  \  ||  / 0  \  |
+------------------------------------
+------------------------------------
+|  \ 6  /  ||  \ 14 /  ||  \ 7  /  |
+| 10\  / 2 || 10\  /  0|| 0 \  / 12|
+|   /  \   ||   /  \   ||   /  \   |
+|  / 9  \  ||  / 5  \  ||  / 0  \  |
+------------------------------------
+------------------------------------
+|  \ 0  /  ||  \ 0  /  ||  \ 0  /  |
+| 7 \  / 0 || 7 \  / 17|| 17\  / 0 |
+|   /  \   ||   /  \   ||   /  \   |
+|  / 18 \  ||  / 9  \  ||  / 14 \  |
+------------------------------------
+
+A string describing the above board is the following one:
+'0,[0, 12, 2, 18]; 1,[0, 7, 6, 19]; 2,[5, 0, 0, 19]; 3,[6, 2, 9, 10]; 4,[14, 0, 5, 10]; 5,[7, 12, 0, 0]; 6,[0, 0, 18, 7]; 7,[0, 17, 9, 7]; 8,[0, 0, 14, 17]'
+
+We need you to solve the puzzle!
+
+Provide us a string that looks exactly as follows:
+cube_id, times_to_rotate_clockwise; cube_id, times_to_rotate_clockwise;... cube_id, times_to_rotate_clockwise
+
+For example, a solution string will look like this:
+2,2; 1,0; 6,0; 4,2; 3,0; 0,1; 8,2; 7,2; 5,3
+
+The above string corresponds to the following (valid) puzzle:
+------------------------------------
+|  \ 0  /  ||  \ 0  /  ||  \ 0  /  |
+| 0 \  / 19|| 19\  / 7 || 7 \  / 0 |
+|   /  \   ||   /  \   ||   /  \   |
+|  / 5  \  ||  / 6  \  ||  / 18 \  |
+------------------------------------
+------------------------------------
+|  \ 5  /  ||  \ 6  /  ||  \ 18 /  |
+| 0 \  / 10|| 10\  / 2 || 2 \  / 0 |
+|   /  \   ||   /  \   ||   /  \   |
+|  / 14 \  ||  / 9  \  ||  / 12 \  |
+------------------------------------
+------------------------------------
+|  \ 14 /  ||  \ 9  /  ||  \ 12 /  |
+| 0 \  / 17|| 17\  / 7 || 7 \  / 0 |
+|   /  \   ||   /  \   ||   /  \   |
+|  / 0  \  ||  / 0  \  ||  / 0  \  |
+------------------------------------
+
+Consider the top-left piece. In the string, it corresponds to '2,2', as we take cube number 2 from the input:
+2,[5, 0, 0, 19]
+But we rotate it clock-wise, twice, so we get [0,19,5,0].
+
+Now consider the top-middle piece. In the string, it corresponds to '1,0'. That is, we take cube number 1 from the input:
+1,[0, 7, 6, 19]
+And we don't rotate it at all (that is, rotate it 0 times) - as it's already in the right direction.
+
+Got it?
+Help us solve the puzzle!
+The puzzle we have is:
+0,[16, 18, 16, 10]; 1,[11, 13, 17, 20]; 2,[10, 18, 11, 18]; 3,[13, 14, 14, 18]; 4,[7, 3, 3, 1]; 5,[12, 17, 10, 0]; 6,[16, 6, 4, 7]; 7,[0, 9, 16, 16]; 8,[5, 7, 20, 0]; 9,[9, 0, 20, 2]; 10,[6, 11, 16, 14]; 11,[10, 11, 20, 16]; 12,[17, 15, 5, 0]; 13,[8, 11, 12, 0]; 14,[15, 13, 10, 11]; 15,[4, 6, 15, 14]; 16,[0, 9, 8, 7]; 17,[11, 1, 0, 16]; 18,[7, 11, 16, 11]; 19,[7, 7, 9, 9]; 20,[13, 7, 16, 20]; 21,[12, 0, 13, 5]; 22,[2, 9, 4, 0]; 23,[19, 10, 1, 20]; 24,[11, 18, 2, 18]; 25,[18, 6, 9, 18]; 26,[1, 5, 15, 2]; 27,[0, 17, 9, 5]; 28,[12, 1, 1, 1]; 29,[6, 1, 0, 10]; 30,[3, 7, 12, 0]; 31,[0, 5, 15, 17]; 32,[3, 1, 10, 14]; 33,[6, 14, 14, 18]; 34,[8, 7, 10, 0]; 35,[14, 13, 14, 14]; 36,[20, 2, 0, 17]; 37,[18, 11, 8, 0]; 38,[16, 9, 11, 17]; 39,[0, 1, 7, 18]; 40,[6, 7, 17, 20]; 41,[2, 8, 17, 7]; 42,[16, 16, 17, 16]; 43,[6, 2, 2, 6]; 44,[10, 13, 6, 7]; 45,[9, 11, 16, 11]; 46,[6, 0, 16, 11]; 47,[12, 17, 9, 18]; 48,[16, 1, 4, 14]; 49,[11, 18, 13, 2]; 50,[13, 15, 3, 18]; 51,[1, 4, 14, 9]; 52,[0, 2, 11, 19]; 53,[4, 2, 0, 0]; 54,[0, 1, 3, 0]; 55,[0, 0, 1, 17]; 56,[2, 14, 3, 11]; 57,[4, 15, 7, 4]; 58,[3, 19, 10, 11]; 59,[0, 6, 9, 0]; 60,[0, 11, 8, 8]; 61,[10, 15, 16, 10]; 62,[10, 15, 7, 14]; 63,[11, 13, 10, 20]; 64,[9, 18, 15, 10]; 65,[5, 11, 18, 0]; 66,[1, 15, 12, 19]; 67,[0, 18, 14, 17]; 68,[19, 11, 7, 20]; 69,[11, 14, 15, 14]; 70,[11, 11, 2, 7]; 71,[0, 17, 20, 11]; 72,[13, 1, 5, 11]; 73,[8, 13, 12, 6]; 74,[14, 1, 16, 18]; 75,[16, 18, 0, 12]; 76,[17, 1, 15, 20]; 77,[5, 0, 10, 1]; 78,[7, 1, 13, 12]; 79,[10, 18, 11, 20]; 80,[7, 9, 20, 12]; 81,[7, 4, 14, 17]; 82,[16, 7, 2, 6]; 83,[10, 12, 11, 9]; 84,[12, 16, 0, 7]; 85,[16, 6, 0, 18]; 86,[6, 6, 8, 11]; 87,[3, 7, 12, 16]; 88,[1, 16, 3, 13]; 89,[12, 4, 20, 0]; 90,[16, 3, 11, 17]; 91,[9, 16, 9, 14]; 92,[16, 13, 0, 6]; 93,[2, 3, 5, 7]; 94,[8, 18, 4, 20]; 95,[12, 10, 7, 13]; 96,[10, 4, 11, 13]; 97,[17, 0, 19, 15]; 98,[13, 20, 11, 2]; 99,[1, 0, 20, 10]
+
+Good luck!

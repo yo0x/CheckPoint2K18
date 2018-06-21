@@ -1,0 +1,16 @@
+Diego's Gallery
+
+Recently I've been developing a platform to manage my cat's photos and keep my flag.txt safe. Please check out my beta
+To avoid security loop holes such as SQL injections I developed my own scheme.
+A short description is available here
+
+http://35.194.63.219/csa_2018/diegos_gallery/_ykansxnmwsqd/
+
+Every line in my DB look's like this:
+
+> START|||username|||password|||role|||END
+
+So for example:
+
+> START|||diego|||catnip|||admin|||END
+> START|||joe|||1234567|||user|||END

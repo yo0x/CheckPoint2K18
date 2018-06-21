@@ -1,0 +1,3864 @@
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,245
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,1554
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-27
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,0
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-27
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-73
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,116
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,509
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-224
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-25
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,0
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,501
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,-47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-950
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,35
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,40
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-1060
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,57
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-1027
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-66
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,64
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,45
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,116
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,34
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,-105
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-521
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,-52
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,-3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,65
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-44
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-44
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,441
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,447
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,34
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-73
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-438
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,8
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-1421
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-821
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-45
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,77
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,500
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-1188
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-74
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-57
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,34
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,73
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+},0
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-1366
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-470
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,428
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-792
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-25
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-116
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-39
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,45
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,-250
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,190
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,108
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-19
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-1589
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,-94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,179
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,39
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-77
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-57
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-338
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-1046
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,87
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-39
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,-1664
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-87
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-200
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-40
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-64
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,286
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,40
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,0
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-358
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-64
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,-60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,34
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-207
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,44
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,87
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-108
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,64
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,-111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,-38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-18
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,-111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-87
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-87
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,-1825
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,66
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-1205
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,57
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,-42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-1466
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,45
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,108
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,877
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-116
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,16
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,0
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,21
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-19
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,-6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,1672
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-66
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-8
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-18
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-40
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,-73
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,9
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,-8
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-65
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,72
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-40
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,73
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,-92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-18
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-15
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,-75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,72
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,121
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,-102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-72
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,-11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,19
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-28
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-55
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,1162
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,1114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,52
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,168
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,44
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,928
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,415
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,347
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-18
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,101
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,32
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,-7
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,-51
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,-23
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-43
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-111
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,-6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-71
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,1243
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,-94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-50
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,99
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,-79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-74
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,93
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+C,69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,-100
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-52
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,-39
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,834
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,8
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,77
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,77
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+$,-380
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,6
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,52
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,119
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-78
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+r,64
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,70
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-96
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,-67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,65
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+A,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,-4
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,72
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,635
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,19
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-33
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+b,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,76
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-107
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,42
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+K,-114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+o,-27
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,-676
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,-17
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+P,60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,81
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-10
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,44
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+F,1
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,891
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+u,-30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,84
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-52
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-734
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-327
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-36
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,116
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+T,80
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-3
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,79
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-104
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-26
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,37
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,92
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-53
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+z,46
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-77
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+w,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,35
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,-30
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+v,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,94
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+U,-103
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,88
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-69
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+X,-85
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+n,74
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+ ,-62
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,75
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,11
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+g,-86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+M,-58
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+R,-74
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-102
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,-109
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-117
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+O,-115
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,-63
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-65
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-48
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,31
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,-90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,41
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-22
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,12
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,98
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,-120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+E,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,113
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+S,66
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+s,-14
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+d,2
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,47
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,158
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-603
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+H,24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+i,-89
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+B,-86
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,-18
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-108
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+L,49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+D,-82
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+G,91
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,56
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,60
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+e,-118
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+j,-20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+y,-114
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-61
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,13
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,120
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,5
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+k,-59
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+q,-97
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+I,-49
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,-24
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+l,110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+h,-110
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,67
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+f,68
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+V,-29
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+t,-83
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+N,105
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+m,90
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+W,-54
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+p,95
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+c,38
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+a,112
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Z,-20
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+x,-106
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Y,45
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+J,105
+@ Boring.txt
+@ (comment above this line)
+@ (zip file comment below this line)
+Q,-83
